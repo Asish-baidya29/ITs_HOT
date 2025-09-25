@@ -2,9 +2,6 @@
 
 A sophisticated multi-agent conversational AI system for a coffee shop that handles customer inquiries, order taking, and recommendations with personality and flair.
 
-## ▶YouTube 
-  -Youtube Video Link ->> https://youtu.be/kwB2vPjj45s
-
 ## 🎯 Project Overview
 
 "It's Hot" is an intelligent chatbot system designed for a coffee shop that provides:
@@ -374,4 +371,3 @@ For issues and questions:
 ---
 
 **"It's Hot" - Where AI meets the perfect cup of coffee! ☕**
-
